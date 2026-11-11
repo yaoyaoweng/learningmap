@@ -1,0 +1,21 @@
+花蓮學習地圖 2.0（PWA）安裝說明
+
+【上傳到 GitHub】
+1. 登入 github.com，右上「＋」→ New repository
+2. 名稱填 hualien-learning-map，選 Public → Create repository
+3. 點「uploading an existing file」，把這個資料夾「裡面」的所有檔案和 icons 資料夾拖進去（不要拖整個資料夾）
+4. 拉到最下面按 Commit changes，確認首頁直接看得到 index.html
+5. Settings → Pages → Branch 選 main、/ (root) → Save
+6. 等 1～3 分鐘，網址是 https://你的帳號.github.io/hualien-learning-map/
+
+【安裝到手機】
+iPhone：用 Safari 打開網址 → 分享 → 加入主畫面
+Android：用 Chrome 打開網址 → 右上選單 → 安裝應用程式
+
+【第一次打開】
+選「花蓮名單_匯入用.json」匯入名單（這個檔案不要上傳到 GitHub）。
+
+【注意】
+- 名單和上課紀錄只存在各自的手機或電腦，不會上傳，也不會在不同裝置間同步。
+- 每月到「目標與設定 → 匯出備份」存一份備份檔；換手機時在新手機匯入備份就能還原。
+- GitHub 上的程式碼是公開的，但裡面沒有任何名單或個人資料。
